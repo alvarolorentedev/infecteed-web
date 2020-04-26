@@ -4,7 +4,7 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Do not get Infecteed"
+  title : "Infecteed"
   content : "A social distancing aproved game to play remote with your friends. Who is infected and who is not? discover it and you will win!"
   button:
     enable : true
