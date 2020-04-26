@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.infecteed.com/</loc>
+    <lastmod>2020-04-26T08:19:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.infecteed.com/privacy/</loc>
+    <lastmod>2020-04-26T08:19:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.infecteed.com/terms-and-conditions/</loc>
+    <lastmod>2020-04-26T08:19:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.infecteed.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.infecteed.com/tags/</loc>
+  </url>
+  
+</urlset>

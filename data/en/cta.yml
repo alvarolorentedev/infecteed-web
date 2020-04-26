@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : false
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  title : "Play with friends"
+  content : "Is time to start your first infecteed game with your friends download, crate a game and share the game with friends"
+  button:
+    enable : true
+    label : "Download"
+    link : "#download"
